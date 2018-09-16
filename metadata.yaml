@@ -1,0 +1,42 @@
+_repo: The-Trail-of-the-Elk_51771
+_version: 0.0.1
+alternative_title: Troll-elgen. English
+contributor:
+  illustrator:
+    agent_name: Rountree, Harry
+    birthdate: 1878
+    gutenberg_agent_id: '7461'
+    url: http://www.gutenberg.org/2009/agents/7461
+  translator:
+    agent_name: Weedon, Sara Helene Petersen
+    birthdate: 1875
+    deathdate: 1925
+    gutenberg_agent_id: '48385'
+    url: http://www.gutenberg.org/2009/agents/48385
+creator:
+  author:
+    agent_name: Fønhus, Mikkjel
+    alias: Fonhus, Mikkjel
+    birthdate: 1894
+    deathdate: 1973
+    gutenberg_agent_id: '46550'
+    url: http://www.gutenberg.org/2009/agents/46550
+    wikipedia: https://en.wikipedia.org/wiki/Mikkjel_F%C3%B8nhus
+description: 'Translation of: Troll-elgen'
+gutenberg_issued: '2016-04-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51771'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Norway -- Fiction'
+- !lcsh 'Moose -- Fiction'
+- !lcsh 'Hunters -- Fiction'
+- !lcsh 'Norwegian fiction -- Translations into English'
+- GITenberg
+title: The Trail of the Elk
+url: http://www.gutenberg.org/ebooks/51771
